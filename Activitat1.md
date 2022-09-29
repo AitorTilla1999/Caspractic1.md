@@ -20,3 +20,9 @@ permisos assignats a cada tipus d’usuari/a.
 **Exemples d’ús de consultar un document per part de l’usuari/a.11**
 
 **Comproveu si un usuari/a pot eliminar sense voler algun document.11**
+
+
+**Perquè penseu que aquesta és una bona solució
+al nostre problema.**
+
+-
