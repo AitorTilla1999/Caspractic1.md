@@ -25,4 +25,5 @@ permisos assignats a cada tipus d’usuari/a.
 **Perquè penseu que aquesta és una bona solució
 al nostre problema.**
 
--
+![](FOTO1.png)
+
