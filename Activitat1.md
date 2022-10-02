@@ -49,3 +49,4 @@ l’Institut).**
 1. El primer que farem sirà accedir al google drive i anirem a “nuevo” i crearem una
 “Nueva carpeta” i com la creo jo, siré l’administrador.
 
+![](FOTO3.png)
