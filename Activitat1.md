@@ -50,3 +50,4 @@ l’Institut).**
 “Nueva carpeta” i com la creo jo, siré l’administrador.
 
 ![](FOTO3.png)
+
