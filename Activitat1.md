@@ -41,3 +41,11 @@ servei a contractar.**
 1. Adjunto imatge i després a la entrega adjunto el document.
 
 ![](FOTO2.png)
+
+**Guia de creació de l’usuari administrador/a i
+usuari/a (Feu servir els comptes de correu de
+l’Institut).**
+
+1. El primer que farem sirà accedir al google drive i anirem a “nuevo” i crearem una
+“Nueva carpeta” i com la creo jo, siré l’administrador.
+
