@@ -39,3 +39,5 @@ l’escriptori
 servei a contractar.**
 
 1. Adjunto imatge i després a la entrega adjunto el document.
+
+![](FOTO2.png)
