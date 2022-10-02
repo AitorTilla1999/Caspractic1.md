@@ -106,3 +106,17 @@ ordenador:
 **Exemples d’ús de consultar un document per
 part de l’usuari/a.**
 
+Per a carpetes, al ser usuari no es pot crear cop tipo de arxiu:
+
+![](FOTO14.png)
+
+I per als fitxer, sol ens deixa observar, i si volem editar tenim que demanar permis de
+edicio:
+
+![](FOTO15.png)
+
+**Comproveu si un usuari/a pot eliminar sense
+voler algun document.**
+
+![](FOTO16.png)
+
