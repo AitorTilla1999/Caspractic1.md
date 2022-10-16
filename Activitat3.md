@@ -93,3 +93,4 @@ TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, u
 
 2: Baixarem una mica i trobarem system status i a la 4 linea fica que es la versió 10.11.0.6
 
+![](version.png)
