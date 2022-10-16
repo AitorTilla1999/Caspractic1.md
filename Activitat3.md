@@ -86,3 +86,10 @@ TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, u
 
 
 - Mostra la versió d'Owncloud instal·lada.
+
+1: El que farem sirà anar a General 
+
+![](general.png)
+
+2: Baixarem una mica i trobarem system status i a la 4 linea fica que es la versió 10.11.0.6
+
