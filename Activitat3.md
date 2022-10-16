@@ -32,6 +32,12 @@ apache2ctl -S
 1: Els tipus de protecció de dades que ofereix owncloud es: Cifratge de dades de caràcter personal, Integritat i resilliència de els sistemes, transparència i procediment i disponibilitat i accés.
 
 2: CIFRATGE DE DADES DE CARÀCTER PERSONAL: Fà un xifratge d'extrem a extrem del costat del client, del costat del server amb ajuda del HSM
+
+
 INTEGRITAT I RESILLIÈNCIA DELS SISTEMES: Es detecten els canvis en arxius inclus si son de una carga gran, ofereix autentificació de molts de factors, gestió de perfils, registre d'audiotoría, verificació d'integritat dels arxius, autentificació, clasificació i polítiques de documents.
+
+
 DISPONIBILITAT I ACCÉS: Sempre està garantitzat ja que te protecció integrada contra ransomware.
+
+
 TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, una gestió d'autoritzacions transparent.
