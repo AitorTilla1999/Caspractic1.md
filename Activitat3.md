@@ -50,3 +50,11 @@ TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, u
 
 6:Les tres versions tenen llicència AGPL
 
+![](llicencies.png)
+
+7:Té una característica de transmissió de video.
+
+8: Si, es poden connectar
+
+9: També
+
