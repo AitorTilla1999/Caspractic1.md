@@ -67,6 +67,14 @@ TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, u
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
 - Posa't una imatge d'usuari.
+
+![](perfil1.png)
+
+![](perfil2.png)
+
+![](perfil3.png)
+
+
 - Afegeix el teu mail de l'Institut.
 - Canvia l'idioma a català.
 - Mostra la versió d'Owncloud instal·lada.
