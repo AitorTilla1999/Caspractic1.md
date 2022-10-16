@@ -76,5 +76,13 @@ TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, u
 
 
 - Afegeix el teu mail de l'Institut.
+
+![](mail.png)
+
+
 - Canvia l'idioma a català.
+
+![](idioma.png)
+
+
 - Mostra la versió d'Owncloud instal·lada.
