@@ -41,3 +41,12 @@ DISPONIBILITAT I ACCÉS: Sempre està garantitzat ja que te protecció integrada
 
 
 TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, una gestió d'autoritzacions transparent.
+
+3:Perquè han creat aquesta integració per a oferir als usuaris un treball més eficient ja que els permet treballar desde un navegador amb una interfaç que es diu WOPI que es de plataforma oberta de la aplicació web. quan es connecten owncloud enterprise i el office online server tens aquestes característiques clau: Fluxe de treball àgil entre owncloud enterprise i office online server, capacitats d'edició completes d'office al navegador, bloqueig d'arxius per una millor col·laboració, col·laboració sencilla amb el botó compartir.
+
+4: Si
+
+5:Té un tipus de llicència AGPL
+
+6:Les tres versions tenen llicència AGPL
+
