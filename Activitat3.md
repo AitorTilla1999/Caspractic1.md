@@ -58,3 +58,6 @@ TRANSPARÈNCIA I PROCEDIMENT: Owncloud ve amb un mmòdul d'auditoria/registra, u
 
 9: També
 
+![](Video.png)
+
+10: Si, compta amb un antivirus que es diu ClamAV que aquesta ferramenta es de codi obert
