@@ -90,6 +90,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **RESPOSTA PRIMERA APP**
 
+Aquesta app es galeria, és una eina multimèdia què serveix per a muntar fotos a l'owncloud, també poden veure els altres usuaris les fotos, les fotos dels paisatges venien amb l'aplicació predeterminades
+
 ![](21.png)
 
 ![](22.png)
@@ -97,6 +99,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 ![](23.png)
 
 **RESPOSTA SEGONA APP**
+
+Aquesta app es diu calendar, el que fà es que tu espitjes al dia que tu vols i per exemple vols programar una reunió fiques de titol reunió i ell et recorda aquest dia que tens una reunió, això es un exemple, després pots ficar el que desitgis.
 
 ![](24.png)
 
