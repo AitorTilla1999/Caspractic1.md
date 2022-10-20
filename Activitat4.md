@@ -73,3 +73,31 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 ![](16(2).png)
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
+
+![](17.png)
+
+**4.11.-** Recupera la carpeta Learn more about owncloud.
+
+![](18.png)
+
+**4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
+
+![](19.png)
+
+![](20.png)
+
+**4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
+
+**RESPOSTA PRIMERA APP**
+
+![](21.png)
+
+![](22.png)
+
+![](23.png)
+
+**RESPOSTA SEGONA APP**
+
+![](24.png)
+
+![](25.png)
