@@ -109,3 +109,5 @@ Aquesta app es diu calendar, el que fà es que tu espitjes al dia que tu vols i 
 4.14.- Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
 ![](26.png)
+
+4.15.- Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
