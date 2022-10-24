@@ -111,3 +111,7 @@ Aquesta app es diu calendar, el que fà es que tu espitjes al dia que tu vols i 
 ![](26.png)
 
 4.15.- Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
+
+![](27.png)
+
+![](28.png)
